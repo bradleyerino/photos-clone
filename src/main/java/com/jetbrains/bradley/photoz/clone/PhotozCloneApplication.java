@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PhotozCloneApplication {
 
 	public static void main(String[] args) {
-		//500 / path error
+		//500 / path error2
 		SpringApplication.run(PhotozCloneApplication.class, args);
 
 	}
